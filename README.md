@@ -10,3 +10,4 @@
 ### Weitere Infos:
 
 - Die unattended.xml installiert immer die Pro Edition und installiert alles auf Deutsch.
+- Ihr könnt [hier](https://schneegans.de/windows/unattend-generator/) eure eigene unattended.xml erstellen.
