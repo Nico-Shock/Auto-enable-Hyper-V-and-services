@@ -5,7 +5,7 @@
 ### Empfehlung:
 
 - Ladet euch [dieses](https://github.com/ny4rlk0/WindowsMediaCreationTool) Tool herunter, das automatisch eine Windows 10/11 ISO herunterlädt, ohne Benutzerinteraktion. (GEHT NICHT MIT DEM EASY_GPU_PV_TOOL. LADET EUCH DAFÜR OFIZIELL [HIER](https://www.microsoft.com/de-de/software-download/windows11) DIE ISO RUNTER)
-- Nutzt [ImgBurn](https://download.imgburn.com/SetupImgBurn_2.5.8.0.exe), um eine autounattend.xml auf die ISO zu schreiben, die Windows automatisch installieren wird. Alternativ könnt ihr auch [folder2iso](https://www.trustfm.net/software/utilities/Folder2Iso.php) nutzen.
+- Nutzt [ImgBurn](https://download.imgburn.com/SetupImgBurn_2.5.8.0.exe), um eine autounattend.xml auf die ISO zu schreiben, die Windows automatisch installieren wird. Alternativ könnt ihr auch [folder2iso](https://www.trustfm.net/software/utilities/Folder2Iso.php) nutzen. (MACHT ES NICHT WINDOWS WIRD NICHT BOOTEN)
 
 ### Weitere Infos:
 
