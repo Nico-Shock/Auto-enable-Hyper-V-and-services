@@ -13,3 +13,9 @@
 - Ihr könnt [hier](https://schneegans.de/windows/unattend-generator/) eure eigene autounattend.xml erstellen.
 - [Hier](https://mega.nz/file/QbFThJaI#NvYXHXOgDFt8a8qQpJeq3mGds4zvBiYvkweqTuXFWvA) sind weitere Daten (+ tutorial) für Hyper-V gpu passthrough.
 - Ihr könnt auch diese Daten [hier](https://github.com/jamesstringerparsec/Easy-GPU-PV) nutzen, um die Insterllation zu erleichtern.
+
+# ZUSAMMENFASSUNG WAS MAN NUTZEN SOLLTE:
+
+- [Hier](https://mega.nz/file/QbFThJaI#NvYXHXOgDFt8a8qQpJeq3mGds4zvBiYvkweqTuXFWvA) könnt ihr manuell selber Hyper-V GPU Passthrough machen.
+- [Hier](https://github.com/jamesstringerparsec/Easy-GPU-PV) könnt ihr Windows automatisch installieren lassen.
+- [Hier](https://github.com/Nico-Shock/Hyper-V-gpu-passthrough-and-other-random-shit-for-me-/releases/latest/enable-hyper-v_pro.bat) könnt ihr Hyper-V für Windows 10/11 Pro aktivieren und [Hier](https://github.com/Nico-Shock/Hyper-V-gpu-passthrough-and-other-random-shit-for-me-/releases/latest/enable-hyper-v.home.bat) für Windows 10/11 Home.
