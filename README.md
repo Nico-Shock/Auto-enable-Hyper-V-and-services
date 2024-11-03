@@ -11,4 +11,4 @@
 
 - Die autounattend.xml installiert immer die Pro Edition und installiert alles auf Deutsch.
 - Ihr könnt [hier](https://schneegans.de/windows/unattend-generator/) eure eigene autounattend.xml erstellen.
-- [Hier](https://mega.nz/file/QbFThJaI#NvYXHXOgDFt8a8qQpJeq3mGds4zvBiYvkweqTuXFWvA) sind weitere Daten (+ tutorial) fpr Hyper-V gpu passthrough.
+- [Hier](https://mega.nz/file/QbFThJaI#NvYXHXOgDFt8a8qQpJeq3mGds4zvBiYvkweqTuXFWvA) sind weitere Daten (+ tutorial) für Hyper-V gpu passthrough.
