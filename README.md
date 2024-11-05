@@ -16,7 +16,7 @@
 
 # ZUSAMMENFASSUNG WAS MAN NUTZEN SOLLTE:
 
-- [Hier](https://mega.nz/file/telkiZ5A#Qv9IF8gP72juD4qCfgw1lAJXK7dloZWDu_J_pjZzWlw) könnt ihr manuell selber Hyper-V GPU Passthrough machen.
+- [Hier](https://mega.nz/file/cb8mRR6A#beEGn_GP9c7B-4T9UOLHMf7xMiwqhGUvAPrbXQLH3bM) könnt ihr manuell selber Hyper-V GPU Passthrough machen.
 - [Hier](https://github.com/jamesstringerparsec/Easy-GPU-PV) könnt ihr Windows automatisch installieren lassen.
 - [Hier](github.com/Nico-Shock/Hyper-V-gpu-passthrough-and-other-random-shit-for-me-/releases/download/v.1.0.2/enable-hyper-v_pro.bat) könnt ihr Hyper-V für Windows 10/11 Pro aktivieren und [Hier](github.com/Nico-Shock/Hyper-V-gpu-passthrough-and-other-random-shit-for-me-/releases/download/v.1.0.2/enable-hyper-v_home.bat) für Windows 10/11 Home.
 - [Hier](https://github.com/fdcastel/Hyper-V-Automation) könnt ihr euch an ein paar anderen Scripts orientieren.
